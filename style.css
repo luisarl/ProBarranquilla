@@ -677,7 +677,7 @@ ul li a.blued:hover{
 }
 
 i.hover-ind.fa.fa-angle-right{
-    float: left;
+    /* float: left; */
     color: #fff;
     font-size: 20px;
     padding-top: 5px;
